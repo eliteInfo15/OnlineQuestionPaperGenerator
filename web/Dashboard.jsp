@@ -108,10 +108,11 @@
                 <!-- SideNav slide-out button -->
 
 
-                <a href="#" data-activates="slide-out" class=" button-collapse" style="color:#4b3e8a; width:17% "><i class="fa fa-bars"></i></a>
+                <a href="#" data-activates="slide-out" class=" button-collapse" style="color:#4b3e8a; left: -5px !important;"><i class="fa fa-bars"></i></a>
                 
 
-                <a class="navbar-brand" Style="color: #4b3e8a; "ref="#"> <i class="fas fa-book-reader prefix  fa-lg"></i>&nbsp<b style="font-size: 19px;">Question Paper Generator</b></a>
+                <a class="navbar-brand" Style="color: #4b3e8a; position: sticky;
+    left: 25%;; "ref="#"> <i class="fas fa-book-reader prefix  fa-lg"></i>&nbsp<b style="font-size: 18px;">Question Paper Generator</b></a>
 
 
                 <button type="button" class="btn btn-rounded white-text ml-auto btn-sm" style="background-color:#4b3e8a"><i class="fas fa-sign-out-alt"></i>Logout</button>
